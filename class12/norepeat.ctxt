@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=norepeat
+comment1.params=wd
+comment1.target=norepeat(java.lang.String)
+comment2.params=
+comment2.target=boolean\ check()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

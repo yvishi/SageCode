@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=prog
+comment1.params=x\ y
+comment1.target=double\ findpower(int,\ int)
+comment1.text=public\ static\ void\ main()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ prog\ obj\=new\ prog();\r\n\ \ \ \ \ \ \ \ Scanner\ sc\=new\ Scanner(System.in);\r\n\ \ \ \ \ \ \ \ int\ n\=sc.nextInt();\r\n\ \ \ \ \ \ \ \ int\ m\=sc.nextInt();\r\n\ \ \ \ \ \ \ \ double\ p\=obj.findpower(n,m);\r\n\ \ \ \ \ \ \ \ System.out.print(p);\r\n}
+numComments=2
